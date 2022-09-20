@@ -14,7 +14,7 @@
 \
 \
 \
-<img src="![](https://i.imgur.com/RfsANbO.gif)" width=200><br>\
+<img src="https://i.imgur.com/RfsANbO.gif" width=200><br>\
 \
 \
 ## Required\
