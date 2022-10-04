@@ -8,7 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var flashcardsController: ViewController!
+    
+ 
     @IBOutlet weak var frontLabel: UILabel!
     @IBOutlet weak var backLabel: UILabel!
     override func viewDidLoad() {
@@ -21,5 +23,18 @@ class ViewController: UIViewController {
         
     }
     
+    
+    
+    
+    
+   
+    
+    func updateFlashcard(question: String, answer: String){
+    
+        
+        
+    }
+    
+   
 }
 
