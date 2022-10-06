@@ -2,7 +2,7 @@
 //  CreationViewController.swift
 //  flashcards
 //
-//  Created by Angelica Ramirez on 10/3/22.
+//  Created by Angelica Ramirez on 10/5/22.
 //
 
 import UIKit
@@ -18,23 +18,35 @@ class CreationViewController: UIViewController {
     }
 
 
-    @IBAction func didTapOnCancel(_ sender: Any) {
+   
+   
+    @IBOutlet var questionTextField: UITextField!
+    
+    @IBOutlet var answerTextField: UITextField!
+    
+    
+    @IBAction func DidTapOnCancel(_ sender: Any) {
         dismiss(animated: true)
     }
     
     
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    @IBAction func DidTapOnDone(_ sender: Any) {
+        
+       
+        let questionText = questionTextField.text
+        // Get the text in the answer text field
+        let answerText = answerTextField.text
+        // Call the function to update the flashcard
+        flashcardsController.updateFlashcard(question: questionText!, answer: answerText!)
+        //Dismiss
+        dismiss(animated: true)
+        
+        
+        
+        
+        
+       
+}
     
     
     
@@ -49,22 +61,5 @@ class CreationViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
-    
-    func updateFlashcard(question: String, answer: String){
-        
-        
-        
-    }
-    
-
-    
-    
-    
-    
-    
 }
-
-
-    
 
