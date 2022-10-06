@@ -10,7 +10,7 @@
 \
 \
 \
-<img src="https://i.imgur.com/HRmqQYI.gif" width=200><br>\
+<img src="https://user-images.githubusercontent.com/106850456/194217966-c28b60ea-7892-45d3-a009-368ce35edf67.gif" width=200><br>\
 \
 \
 
