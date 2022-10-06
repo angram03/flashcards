@@ -3,7 +3,7 @@
 ### App Description
 `TODO://` An update to the flashcards app. You can cancel by clikcing the cancel button. You can also click done with the done button. You can also create a flashcard by inputting a question and an answer
 
-### App Walk-though
+### App Walk-though\
 
 
 \ 
@@ -11,7 +11,8 @@
 \
 \
 <img src="https://i.imgur.com/HRmqQYI.gif" width=200><br>\
-
+\
+\
 
 ## Required
 - [x] User can open the creation screen
