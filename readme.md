@@ -5,7 +5,12 @@
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/HRmqQYI.gif" width=200><br>
+
+\ 
+\
+\
+\
+<img src="https://i.imgur.com/HRmqQYI.gif" width=200><br>\
 
 
 ## Required
