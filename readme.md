@@ -1,12 +1,11 @@
 ## Lab 2
 
 ### App Description
-`TODO://` An update on the flashcard app, enabling the answer and question!!!!
-can cancel a page and can click done!!!
+`TODO://` An update to the flashcards app. You can cancel by clikcing the cancel button. You can also click done with the done button. You can also create a flashcard by inputting a question and an answer
 
+### App Walk-though
 
-<img src="https://i.imgur.com/HRmqQYI.gif" width=200><br>\
-
+<img src="https://i.imgur.com/HRmqQYI.gif" width=200><br>
 
 
 ## Required
@@ -18,6 +17,29 @@ can cancel a page and can click done!!!
 - [ ] User gets an error if they try to create a new flashcard with no question or answer
 - [ ] User can edit existing flashcard
 - [ ] User can add multiple choice answers in the creation screen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
