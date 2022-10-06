@@ -5,7 +5,7 @@
 can cancel a page and can click done!!!
 
 
-<img src="https://i.imgur.com/HRmqQYI.gif" width=200><br>
+<img src= https://i.imgur.com/HRmqQYI.gif width=200><br>
 
 
 
