@@ -169,7 +169,7 @@ class ViewController: UIViewController {
         
         updateLabels()
         updateNextPrevButtons()
-        
+        animateCardIn()
         
     }
     
